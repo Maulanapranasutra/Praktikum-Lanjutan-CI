@@ -5,3 +5,4 @@
 ![alt text](https://github.com/Maulanapranasutra/Praktikum-Lanjutan-CI/blob/master/4.JPG)
 ![alt text](https://github.com/Maulanapranasutra/Praktikum-Lanjutan-CI/blob/master/5.JPG)
 ![alt text](https://github.com/Maulanapranasutra/Praktikum-Lanjutan-CI/blob/master/6.JPG)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-Lanjutan-CI/blob/master/7.JPG)
